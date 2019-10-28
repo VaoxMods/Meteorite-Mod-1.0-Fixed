@@ -1,5 +1,5 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+# MeteoriteMod
+WIP
 
 ## Importing
 
